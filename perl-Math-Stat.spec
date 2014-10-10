@@ -2,7 +2,7 @@
 
 Name:		perl-%{module}
 Version:	0.1
-Release:	9
+Release:	10
 Summary:	Perform Sample Statistics on Arrays
 License:	GPL or Artistic
 Group:		Development/Perl
