@@ -6,7 +6,7 @@ Release:	11
 Summary:	Perform Sample Statistics on Arrays
 License:	GPL or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{module}
+Url:		https://search.cpan.org/dist/%{module}
 Source:		http://www.cpan.org/modules/by-module/Math/%{module}-%{version}.tar.bz2
 
 BuildRequires:	perl-devel
