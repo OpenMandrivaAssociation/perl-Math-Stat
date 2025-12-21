@@ -9,6 +9,7 @@ Group:		Development/Perl
 Url:		https://search.cpan.org/dist/%{module}
 Source:		http://www.cpan.org/modules/by-module/Math/%{module}-%{version}.tar.bz2
 
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildArch:	noarch
 
